@@ -18,7 +18,10 @@
 
                     <mat-icon>expand_more</mat-icon>
                 </button>
-                <mat-menu #menu="matMenu"></mat-menu>
+                <mat-menu #menu="matMenu">
+                    <button (click)="onItemsUpdated(12)" mat-menu-item>12</button>
+
+                </mat-menu>
             </div>
         </div>
     </div>
