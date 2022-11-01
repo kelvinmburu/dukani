@@ -29,3 +29,6 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 ## Contribution
 To contribute to this project:
 - Fork the project and clone to your local working space
+- Install all dependencies and third libraries using `npm install`
+- Make a change, `git push` and [make a PR](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request)
+- Wait for changes to be reviewed and merged
